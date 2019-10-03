@@ -17,7 +17,7 @@ namespace class5git.Controllers
 
         public IActionResult David()
         {
-            ViewData["Message="] = "This page will detail how awesome David is";
+            ViewData["Message="] = "This page will detail how awesome David is!!!";
             return View(ViewData);
         }
 
